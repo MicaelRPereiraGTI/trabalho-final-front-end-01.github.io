@@ -1,0 +1,15 @@
+.esquerda{
+    background-color: #185077;
+    width: 15%;
+}
+.direita{
+    background-color: #2986bc;
+}
+.btn{
+    background-color: #0c2537 !important;
+    color: #f9f8f8 !important;
+}
+.btn:hover {
+    background-color: #0a1c29 !important;
+    color: #ffffff !important;
+}
